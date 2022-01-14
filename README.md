@@ -2,7 +2,7 @@
 
 ## Program Practically With Java (IntelliJ IDEA Version)
 
-The code in this repository relates to the modules of the book, **Program Practically With Java (IntelliJ IDE Version)**, available on the Leanpub website (**https://leanpub.com/**), and covers coding in Java using the IntelliJ IDEA Community Edition from JetBrains.
+The code in this repository relates to the modules of the book, **Program Practically With Java (IntelliJ IDE Version)**, available on the Amazon and Leanpub websites (**https://amazon.com/books/**)(**https://leanpub.com/**), and covers coding in Java using the IntelliJ IDEA Community Edition from JetBrains.
 
 Other Integrated Development Environments exist such as NetBeans and Eclipse. 
 
