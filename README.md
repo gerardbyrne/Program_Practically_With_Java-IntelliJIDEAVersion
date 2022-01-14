@@ -32,6 +32,6 @@ Another version of this book, **Program Practically With Java (Eclipse IDE Versi
 
 The code and examples in both books are the same.
 
-<img src="https://user-images.githubusercontent.com/17484740/149511929-4ede2b01-dca2-45d4-844e-842043c3363d.jpg" width="15%"></img> 
-<img src="https://user-images.githubusercontent.com/17484740/149511965-b83af4fb-3ac7-4933-a581-e39d08db1b18.jpg" width="15%"></img> 
-<img src="https://user-images.githubusercontent.com/17484740/149511989-d42f87f9-0940-42a7-b102-c00609c75e73.jpg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/17484740/149511929-4ede2b01-dca2-45d4-844e-842043c3363d.jpg" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/17484740/149511965-b83af4fb-3ac7-4933-a581-e39d08db1b18.jpg" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/17484740/149511989-d42f87f9-0940-42a7-b102-c00609c75e73.jpg" width="30%"></img> 
